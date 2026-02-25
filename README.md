@@ -169,6 +169,12 @@ QuestForge implements D&D 5e rules **strictly** using the System Reference Docum
 
 ---
 
+## 📄 Documentation
+
+You can see project's documentation in the [docs folder](./docs/README.md). It contains detailed design docs on the overall vision, visual identity, and technical architecture of **QuestForge**.
+
+---
+
 ## 🤝 Contributing
 
 This project is currently in the **concept phase**. Contributions, ideas, and feedback are welcome!
